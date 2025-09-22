@@ -1,0 +1,9 @@
+{
+    "data": {
+        "dataset": "MNIST",
+        "path": "./data"
+    },
+    "model": {
+        "architecture": "resnet34"
+    }
+}

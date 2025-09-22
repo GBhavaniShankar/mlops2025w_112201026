@@ -1,0 +1,8 @@
+[training]
+epochs = 2
+batch_size = 64
+
+[hyperparameters]
+learning_rate = 0.001
+optimizer = "adam"
+momentum = 0.9
