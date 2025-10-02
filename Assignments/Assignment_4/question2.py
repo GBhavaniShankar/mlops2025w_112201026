@@ -6,7 +6,7 @@ df = pd.read_csv("data/online_retail.csv")
 df = df.dropna(subset=["CustomerID"])
 
 # MongoDB Connection
-client = MongoClient("mongodb://localhost:27017/")
+client = MongoClient("mongodb://localhost:27017/", maxPoolSize=500)
 db = client["retail_db"]
 
 # Collections
