@@ -1,0 +1,28 @@
+{
+  "os": "Linux-5.15.0-160-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.12",
+  "startedAt": "2025-10-21T14:27:16.122477Z",
+  "program": "wandb_cloud_deploy_lab_detailed.ipynb",
+  "codePath": "Class/week8/wandb_cloud_deploy_lab_detailed.ipynb",
+  "codePathLocal": "wandb_cloud_deploy_lab_detailed.ipynb",
+  "git": {
+    "remote": "git@github.com:GBhavaniShankar/mlops2025w_112201026.git",
+    "commit": "3ae1928f8002e95686c84a397bb2f48c33d7864e"
+  },
+  "email": "112201026@smail.iitpkd.ac.in",
+  "root": "/home/bhavani/Desktop/sem_7/MLOps/mlops2025w_112201026/Class/week8",
+  "host": "Vivobook",
+  "executable": "/usr/bin/python3",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "35965706240",
+      "used": "24673849344"
+    }
+  },
+  "memory": {
+    "total": "8003772416"
+  },
+  "writerId": "lzd6sfgohdja9qzcueeu8vlfxmx8lrjq"
+}

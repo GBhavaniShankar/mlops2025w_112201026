@@ -1,0 +1,31 @@
+2025-10-21 19:57:16,163 INFO    MainThread:5451 [wandb_setup.py:_flush():81] Current SDK version is 0.22.2
+2025-10-21 19:57:16,163 INFO    MainThread:5451 [wandb_setup.py:_flush():81] Configure stats pid to 5451
+2025-10-21 19:57:16,163 INFO    MainThread:5451 [wandb_setup.py:_flush():81] Loading settings from /home/bhavani/.config/wandb/settings
+2025-10-21 19:57:16,163 INFO    MainThread:5451 [wandb_setup.py:_flush():81] Loading settings from /home/bhavani/Desktop/sem_7/MLOps/mlops2025w_112201026/Class/week8/wandb/settings
+2025-10-21 19:57:16,163 INFO    MainThread:5451 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2025-10-21 19:57:16,163 INFO    MainThread:5451 [wandb_init.py:setup_run_log_directory():705] Logging user logs to /home/bhavani/Desktop/sem_7/MLOps/mlops2025w_112201026/Class/week8/wandb/run-20251021_195716-xgfbn20t/logs/debug.log
+2025-10-21 19:57:16,163 INFO    MainThread:5451 [wandb_init.py:setup_run_log_directory():706] Logging internal logs to /home/bhavani/Desktop/sem_7/MLOps/mlops2025w_112201026/Class/week8/wandb/run-20251021_195716-xgfbn20t/logs/debug-internal.log
+2025-10-21 19:57:16,163 INFO    MainThread:5451 [wandb_init.py:monkeypatch_ipython():624] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7fe1b41fe2c0>
+2025-10-21 19:57:16,164 INFO    MainThread:5451 [wandb_init.py:init():832] calling init triggers
+2025-10-21 19:57:16,164 INFO    MainThread:5451 [wandb_init.py:init():837] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-10-21 19:57:16,165 INFO    MainThread:5451 [wandb_init.py:init():880] starting backend
+2025-10-21 19:57:16,375 INFO    MainThread:5451 [wandb_init.py:init():883] sending inform_init request
+2025-10-21 19:57:16,389 INFO    MainThread:5451 [wandb_init.py:init():891] backend started and connected
+2025-10-21 19:57:16,396 INFO    MainThread:5451 [wandb_run.py:_label_probe_notebook():1330] probe notebook
+2025-10-21 19:57:16,397 INFO    MainThread:5451 [wandb_init.py:init():961] updated telemetry
+2025-10-21 19:57:16,404 INFO    MainThread:5451 [wandb_init.py:init():985] communicating run to backend with 90.0 second timeout
+2025-10-21 19:57:17,370 INFO    MainThread:5451 [wandb_init.py:init():1036] starting run threads in backend
+2025-10-21 19:57:17,680 INFO    MainThread:5451 [wandb_run.py:_console_start():2509] atexit reg
+2025-10-21 19:57:17,680 INFO    MainThread:5451 [wandb_run.py:_redirect():2357] redirect: wrap_raw
+2025-10-21 19:57:17,680 INFO    MainThread:5451 [wandb_run.py:_redirect():2426] Wrapping output streams.
+2025-10-21 19:57:17,680 INFO    MainThread:5451 [wandb_run.py:_redirect():2449] Redirects installed.
+2025-10-21 19:57:17,682 INFO    MainThread:5451 [wandb_init.py:init():1076] run started, returning control to user process
+2025-10-21 19:57:24,521 INFO    MainThread:5451 [wandb_run.py:_finish():2275] finishing run 112201026-indian-institute-of-technology-palakkad/classroom-deploy/xgfbn20t
+2025-10-21 19:57:24,522 INFO    MainThread:5451 [jupyter.py:save_history():480] not saving jupyter history
+2025-10-21 19:57:24,522 INFO    MainThread:5451 [jupyter.py:save_ipynb():404] not saving jupyter notebook
+2025-10-21 19:57:24,522 INFO    MainThread:5451 [wandb_init.py:_jupyter_teardown():609] cleaning up jupyter logic
+2025-10-21 19:57:24,522 INFO    MainThread:5451 [wandb_run.py:_atexit_cleanup():2474] got exitcode: 0
+2025-10-21 19:57:24,522 INFO    MainThread:5451 [wandb_run.py:_restore():2456] restore
+2025-10-21 19:57:24,522 INFO    MainThread:5451 [wandb_run.py:_restore():2462] restore done
+2025-10-21 19:57:26,302 INFO    MainThread:5451 [wandb_run.py:_footer_sync_info():3872] logging synced files

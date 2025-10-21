@@ -1,0 +1,12 @@
+{"time":"2025-10-21T19:57:16.393700889+05:30","level":"INFO","msg":"stream: starting","core version":"0.22.2"}
+{"time":"2025-10-21T19:57:16.893161227+05:30","level":"INFO","msg":"stream: created new stream","id":"xgfbn20t"}
+{"time":"2025-10-21T19:57:16.893221884+05:30","level":"INFO","msg":"handler: started","stream_id":"xgfbn20t"}
+{"time":"2025-10-21T19:57:16.893294747+05:30","level":"INFO","msg":"stream: started","id":"xgfbn20t"}
+{"time":"2025-10-21T19:57:16.89331792+05:30","level":"INFO","msg":"writer: started","stream_id":"xgfbn20t"}
+{"time":"2025-10-21T19:57:16.893343692+05:30","level":"INFO","msg":"sender: started","stream_id":"xgfbn20t"}
+{"time":"2025-10-21T19:57:24.52803402+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":0.005542542}],"total_operations":1}}
+{"time":"2025-10-21T19:57:25.898514537+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-21T19:57:26.307381619+05:30","level":"INFO","msg":"stream: closing","id":"xgfbn20t"}
+{"time":"2025-10-21T19:57:26.307414974+05:30","level":"INFO","msg":"handler: closed","stream_id":"xgfbn20t"}
+{"time":"2025-10-21T19:57:26.307488312+05:30","level":"INFO","msg":"sender: closed","stream_id":"xgfbn20t"}
+{"time":"2025-10-21T19:57:26.307505353+05:30","level":"INFO","msg":"stream: closed","id":"xgfbn20t"}
