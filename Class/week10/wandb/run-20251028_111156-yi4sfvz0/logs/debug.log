@@ -1,0 +1,28 @@
+2025-10-28 11:11:56,699 INFO    MainThread:6363 [wandb_init.py:setup_run_log_directory():705] Logging user logs to /home/bhavani/Desktop/sem_7/MLOps/mlops2025w_112201026/Class/week10/wandb/run-20251028_111156-yi4sfvz0/logs/debug.log
+2025-10-28 11:11:56,699 INFO    MainThread:6363 [wandb_init.py:setup_run_log_directory():706] Logging internal logs to /home/bhavani/Desktop/sem_7/MLOps/mlops2025w_112201026/Class/week10/wandb/run-20251028_111156-yi4sfvz0/logs/debug-internal.log
+2025-10-28 11:11:56,699 INFO    MainThread:6363 [wandb_init.py:monkeypatch_ipython():624] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7fe0acca0100>
+2025-10-28 11:11:56,699 INFO    MainThread:6363 [wandb_init.py:init():832] calling init triggers
+2025-10-28 11:11:56,699 INFO    MainThread:6363 [wandb_init.py:init():837] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-10-28 11:11:56,699 INFO    MainThread:6363 [wandb_init.py:init():880] starting backend
+2025-10-28 11:11:56,699 INFO    MainThread:6363 [wandb_init.py:init():883] sending inform_init request
+2025-10-28 11:11:56,701 INFO    MainThread:6363 [wandb_init.py:init():891] backend started and connected
+2025-10-28 11:11:56,709 INFO    MainThread:6363 [wandb_run.py:_label_probe_notebook():1330] probe notebook
+2025-10-28 11:11:56,710 INFO    MainThread:6363 [wandb_run.py:_label_probe_notebook():1340] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2025-10-28 11:11:56,710 INFO    MainThread:6363 [wandb_init.py:init():961] updated telemetry
+2025-10-28 11:11:56,716 INFO    MainThread:6363 [wandb_init.py:init():985] communicating run to backend with 90.0 second timeout
+2025-10-28 11:11:57,672 INFO    MainThread:6363 [wandb_init.py:init():1036] starting run threads in backend
+2025-10-28 11:11:57,966 INFO    MainThread:6363 [wandb_run.py:_console_start():2509] atexit reg
+2025-10-28 11:11:57,967 INFO    MainThread:6363 [wandb_run.py:_redirect():2357] redirect: wrap_raw
+2025-10-28 11:11:57,967 INFO    MainThread:6363 [wandb_run.py:_redirect():2426] Wrapping output streams.
+2025-10-28 11:11:57,967 INFO    MainThread:6363 [wandb_run.py:_redirect():2449] Redirects installed.
+2025-10-28 11:11:57,968 INFO    MainThread:6363 [wandb_init.py:init():1076] run started, returning control to user process
+2025-10-28 11:11:57,969 INFO    MainThread:6363 [wandb_run.py:_config_callback():1392] config_cb None None {'n_estimators': 50, 'random_state': 42}
+2025-10-28 11:11:59,809 INFO    MainThread:6363 [wandb_run.py:_finish():2275] finishing run 112201026-indian-institute-of-technology-palakkad/mlops-performance-monitoring/yi4sfvz0
+2025-10-28 11:11:59,809 INFO    MainThread:6363 [jupyter.py:save_history():480] not saving jupyter history
+2025-10-28 11:11:59,809 INFO    MainThread:6363 [jupyter.py:save_ipynb():404] not saving jupyter notebook
+2025-10-28 11:11:59,809 INFO    MainThread:6363 [wandb_init.py:_jupyter_teardown():609] cleaning up jupyter logic
+2025-10-28 11:11:59,809 INFO    MainThread:6363 [wandb_run.py:_atexit_cleanup():2474] got exitcode: 0
+2025-10-28 11:11:59,810 INFO    MainThread:6363 [wandb_run.py:_restore():2456] restore
+2025-10-28 11:11:59,810 INFO    MainThread:6363 [wandb_run.py:_restore():2462] restore done
+2025-10-28 11:12:01,857 INFO    MainThread:6363 [wandb_run.py:_footer_sync_info():3872] logging synced files

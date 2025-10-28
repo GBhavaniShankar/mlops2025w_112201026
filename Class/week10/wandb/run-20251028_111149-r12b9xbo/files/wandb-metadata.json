@@ -1,0 +1,26 @@
+{
+  "os": "Linux-5.15.0-160-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.12",
+  "startedAt": "2025-10-28T05:41:49.363314Z",
+  "program": "<python with no main file>",
+  "git": {
+    "remote": "git@github.com:GBhavaniShankar/mlops2025w_112201026.git",
+    "commit": "cc1347c4a41c6157b080b2359fd092b1f05b5f99"
+  },
+  "email": "112201026@smail.iitpkd.ac.in",
+  "root": "/home/bhavani/Desktop/sem_7/MLOps/mlops2025w_112201026/Class/week10",
+  "host": "Vivobook",
+  "executable": "/usr/bin/python3",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "35965706240",
+      "used": "25088364544"
+    }
+  },
+  "memory": {
+    "total": "8003772416"
+  },
+  "writerId": "w0n3kc5d2yd95c47td861vj7bc67gdh1"
+}
